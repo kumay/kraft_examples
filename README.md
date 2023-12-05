@@ -1,6 +1,6 @@
 # Kraft with SASML_SCRAM, SASL_PLAINTEXT and no security.
 
-In Kraft mode authentication data of SASL_SCRAM is stored in `__cluster_metadat`.
+In Kraft mode authentication data of SASL_SCRAM is stored in `__cluster_metadata`.
 
 Background Information:
 https://cwiki.apache.org/confluence/display/KAFKA/KIP-801
