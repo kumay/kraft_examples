@@ -3,13 +3,16 @@
 In Kraft mode authentication data of SASL_SCRAM is stored in `__cluster_metadata`.
 
 Background Information:
+
 https://cwiki.apache.org/confluence/display/KAFKA/KIP-801
+
 https://cwiki.apache.org/confluence/display/KAFKA/KIP-900
 
 
 In this example broker and controller coexists in broker container.
 
 Using cp-kafka (confluent community edition) docker image.
+
 https://hub.docker.com/r/confluentinc/cp-kafka
 
 
