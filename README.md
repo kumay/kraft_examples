@@ -144,18 +144,26 @@ Version cp-kafka:7.5.0 supported --add-scram option
 
 Authorizer class
 for Karaft use StandardAuthorizer class
+
 https://docs.confluent.io/platform/current/kafka/authorization.html#authorization-using-access-control-lists-acls
 
 
 SCRAM Example
+
 https://github.com/wurstmeister/kafka-docker/wiki/SASL-config-example
 
 
+
 Kraft with SASL_SCRAM
+
 https://docs.confluent.io/platform/current/kafka/authentication_sasl/authentication_sasl_scram.html
 
 
+
 SCRAM samples
+
 https://forum.confluent.io/t/clusterauthorizationexception-with-user-anonymous-when-setting-up-sasl-with-kraft-and-acl/8865/7
+
 https://github.com/gschmutz/various-platys-platforms/tree/main/kafka-sasl-scram-kraft
+
 https://github.com/TrivadisPF/platys-modern-data-platform
